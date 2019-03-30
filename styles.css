@@ -46,3 +46,13 @@ nav ul li {
    background-color: #fff;
    color: #000;
 }
+
+.ihor_kaka {
+   background-color: green;
+   height: 100vh;
+}
+
+.ihor_kaka a {
+   font-size: 30px;
+   color: red;
+}
